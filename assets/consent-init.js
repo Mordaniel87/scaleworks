@@ -49,7 +49,7 @@
         en: {
           consentModal: {
             title: 'We use cookies',
-            description: 'We use analytics and advertising cookies to understand traffic and measure ad performance. See our <a href="legal.html#cookies">Cookie Policy</a>.',
+            description: 'We use analytics and advertising cookies to understand traffic and measure ad performance. See our <a href="/legal#cookies">Cookie Policy</a>.',
             acceptAllBtn: 'Accept all',
             acceptNecessaryBtn: 'Reject non-essential',
             showPreferencesBtn: 'Manage preferences'
